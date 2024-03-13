@@ -1,5 +1,4 @@
 name: 1. workflow
-#  workflow_dispacth (wait for user to manually start the workflow)
 on: workflow_dispacth
 jobs:
   first-job:
